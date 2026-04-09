@@ -125,10 +125,11 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 # 📊 GitHub Stats:
@@ -136,7 +137,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=maruf-hasan36&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=maruf-hasan36&theme=radical&hide_border=false)
+![](https://streak-stats.demolab.com/?user=maruf-hasan36&theme=radical&hide_border=false)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=maruf-hasan36&theme=radical&hide_border=false)
 
 <br/>
 
@@ -182,3 +185,4 @@
 <!--START_SECTION:waka-->
 ```text
 JavaScript   ████████████████████████   100.00 %
+```
