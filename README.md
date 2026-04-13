@@ -2,10 +2,10 @@
 **maruf-hasan36/maruf-hasan36** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
 
-<p align="center">
+<h2 align="center">
   <!-- Big Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&width=600&height=60&lines=Hi👋+I'm+Mehedi+Hasan+Maruf;MERN+Stack+Web+Developer;Building+Modern+Web+Apps;Learning+%26+Growing+Everyday;Turning+Ideas+Into+Reality;Nice+To+Meet+You+🚀&center=true"/>
-</p>
+</h2>
 
 <!-- Permanent Slogan Below -->
 <p align="center" style="font-size:18px; color:#00F7FF; font-weight:bold; margin-top:5px;">
