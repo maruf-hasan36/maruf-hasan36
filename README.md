@@ -1,188 +1,92 @@
-<!--
-**maruf-hasan36/maruf-hasan36** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
--->
-
+<!-- Typing Animation -->
 <h2 align="center">
-  <!-- Big Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&width=600&height=60&lines=Hi👋+I'm+Mehedi+Hasan+Maruf;MERN+Stack+Web+Developer;Building+Modern+Web+Apps;Learning+%26+Growing+Everyday;Turning+Ideas+Into+Reality;Nice+To+Meet+You+🚀&center=true"/>
 </h2>
 
-<!-- Permanent Slogan Below -->
-<p align="center" style="font-size:18px; color:#00F7FF; font-weight:bold; margin-top:5px;">
-  🚀 Turning Ideas Into Reality | 💻 Passionate About Coding | 🌐 Open-Source Enthusiast
-</p>
-
-# 🖥️ Technical Skills: 
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.github.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
-  </a>
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="developerandroid" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+<p align="center">
+🚀 Turning Ideas Into Reality | 💻 Passionate About Coding | 🌐 Open-Source Enthusiast
 </p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-hasan36&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🧑‍💻 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=maruf-hasan36&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=maruf-hasan36&theme=radical&hide_border=false)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=maruf-hasan36&theme=radical&hide_border=false)
-
-<br/>
-
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="180px">
+<p align="center">
+I’m a MERN Stack Developer passionate about building modern, scalable web applications.  
+I love solving real-world problems and continuously improving my skills.
+</p>
 
 ---
 
-# 🌐 Connect With Me:
-<p align="left">
-  <a href="https://www.facebook.com/mehedihasanmaruf09/" target="_blank">
+<img align="right" height="250" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"/>
+
+### 🚀 Current Activities
+- 🔭 Working with **Next.js & React**
+- 🌱 Learning advanced **Full Stack Development**
+- 💡 Exploring new technologies
+
+---
+
+## 🔥 Languages & Frameworks & Tools 🔥
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,figma,git,github,vscode,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maruf-hasan36&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=maruf-hasan36&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-hasan36&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/mehedihasanmaruf09/">
     <img src="https://img.icons8.com/color/48/facebook-new.png"/>
   </a>
-
-  <a href="https://www.instagram.com/mehe.di_09/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/mehe.di_09/?hl=en">
     <img src="https://img.icons8.com/color/48/instagram-new.png"/>
   </a>
-
-  <a href="https://youtube.com/@nooblearnersbd" target="_blank">
+  <a href="https://youtube.com/@nooblearnersbd">
     <img src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
-
-  <a href="https://x.com/nexarphantom" target="_blank">
+  <a href="https://x.com/nexarphantom">
     <img src="https://img.icons8.com/ios-filled/50/000000/x.png"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/maruf-hasan-mh" target="_blank">
+  <a href="https://www.linkedin.com/in/maruf-hasan-mh">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Achiever-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Top_Repo-Contributor-green?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/100%25_Coding-JS-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-orange?style=for-the-badge&logo=node.js"/>
-</p>
+---
 
 ---
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   ████████████████████████   100.00 %
-```
+## 📊 Hacker Mode Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-hasan36&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00" />
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-orange?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-Lover-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/OpenSource-Contributor-green?style=for-the-badge&logo=github"/>
+</p>
