@@ -77,7 +77,7 @@ I love solving real-world problems and continuously improving my skills.
 
 ---
 
-## 📊 Hacker Mode Activity Graph
+## 📊 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-hasan36&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00" />
