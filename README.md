@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-I’m a MERN Stack Developer passionate about building modern, scalable web applications.  
+I’m a MERN Stack Developer passionate about building modern, scalable web applications.
 I love solving real-world problems and continuously improving my skills.
 </p>
 
@@ -21,6 +21,7 @@ I love solving real-world problems and continuously improving my skills.
 <img align="right" height="250" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"/>
 
 ### 🚀 Current Activities
+
 - 🔭 Working with **Next.js & React**
 - 🌱 Learning advanced **Full Stack Development**
 - 💡 Exploring new technologies
@@ -38,15 +39,12 @@ I love solving real-world problems and continuously improving my skills.
 ## 📊 GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruf-hasan36&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maruf-hasan36&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-hasan36&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=maruf-hasan36&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-hasan36&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -73,15 +71,13 @@ I love solving real-world problems and continuously improving my skills.
 
 ---
 
----
-
----
-
-## 📊 GitHub Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-hasan36&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00" />
 </p>
+
+---
 
 ## 🏆 Achievements
 
