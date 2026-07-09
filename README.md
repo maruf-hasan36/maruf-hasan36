@@ -44,7 +44,7 @@ I love solving real-world problems and continuously improving my skills.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=maruf-hasan36&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=maruf-hasan36&theme=radical"/>
 </p>
 
 ---
